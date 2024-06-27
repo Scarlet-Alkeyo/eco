@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    gap: 20px;
+    background-color: cadetblue;
+    color: aliceblue;
+    color: white;
+    font-size: 20px;
+    margin-right: 0%;
+  
+
+}
+#icons{
+display: flex;
+gap: 70px;
+margin-right: 40%;
+
+
+}
+
+#Navbar{
+    display: flex;
+    margin-left: 30%;
+}
+.navbar a{
+    color:white;
+    text-decoration: none;
+  }
+
+
